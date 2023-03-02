@@ -1,0 +1,42 @@
+@media only screen and (max-width:600px) {
+    .row {
+        display: inline !important;
+    }
+
+    .navFonts {
+        margin: 4px 20px;
+    }
+}
+
+.col {
+    margin: 3rem 0rem;
+
+
+}
+
+.card {
+    border: none;
+}
+
+.product-list {
+    text-align: center;
+}
+
+.featuredTopic {
+    text-align: center;
+    padding-top: 20px;
+}
+
+.bg-dark {
+    background-color: cadetblue !important;
+}
+
+.navFonts {
+    font-size: 20px;
+    padding: -1px 20px !important;
+    margin-right: 30px;
+}
+
+.nav-link {
+    padding: 0px !important;
+}
